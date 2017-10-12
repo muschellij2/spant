@@ -9,3 +9,5 @@
 ^pipelines\.R$
 ^\.travis\.yml$
 ^appveyor\.yml$
+^DESCRIPTION\.bak$
+^\./\.travis\.yml\.bak$

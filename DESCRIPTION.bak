@@ -32,7 +32,7 @@ Imports:
     smoother,
     svd,
     tkrplot
-Suggests: 
+Suggests:
     oro.nifti,
     MASS,
     fastICA,
@@ -46,13 +46,7 @@ Suggests:
     neurobase,
     knitr,
     magrittr,
-    rmarkdown,
-    covr
+    rmarkdown
 VignetteBuilder:
     knitr
 Encoding: UTF-8
-Remotes: neuroconductor/RNifti@6ef343a6ecf48dc85346958f26fe586c4b2b5c15,
-    neuroconductor/oro.nifti@c25f6bcb1200506a3e39127f550bcca7766b0107,
-    neuroconductor/RNiftyReg@b909a9f16d308d1b5669e97892b36904820f1330,
-    neuroconductor/neurobase@c668aabafa4a51381b7cbc56ff23101abd19e337
-biocViews: 
